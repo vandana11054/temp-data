@@ -1,0 +1,9 @@
+addi x4,x0,33
+xori x11,x5,7
+srl x28,x13,x11
+lui sp,0x99
+sra x6,x1,x1
+srli x12,x11,4
+sll x21,x4,x11
+sb x22,0(x5)
+ld x26,7(x2)
